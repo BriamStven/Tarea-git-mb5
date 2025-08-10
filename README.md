@@ -20,4 +20,7 @@
 - Realizacion de maquinas linux en entorno virtual
 
 ## 👨‍✈️ Experiencias Previas
-- He realizado Proyectos grupales y tareas practicas. Actualmente Aprendiendo Git y Github para mis practicas profesionales. 
+- He realizado Proyectos grupales y tareas practicas. Actualmente Aprendiendo Git y Github para mis practicas profesionales.
+
+## ✨ Mi Objetivo Profesional
+- Convertirme en un experto en ciberseguridad y tener trabajo en una empresa de tecnologia.
