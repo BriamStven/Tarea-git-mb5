@@ -18,3 +18,6 @@
 - Proyectos en grupo y Practicas propias.
 - Uso de simulacion de redes en Packet Tracer
 - Realizacion de maquinas linux en entorno virtual
+
+## 👨‍✈️ Experiencias Previas
+- He realizado Proyectos grupales y tareas practicas. Actualmente Aprendiendo Git y Github para mis practicas profesionales. 
